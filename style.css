@@ -35,7 +35,7 @@ body {
 /* inner page content */
 .page-content {
   /* margin-left: 272px; */
-  
+  padding-left: 40px;
   position: relative;
   top: 0;
   /* right: -60px; */
@@ -121,14 +121,6 @@ h2 {
 
 /* sidebar end */
 
-.lg-margin {
-  margin-bottom: 150px;
-}  
-
-.sm-margin {
-  margin-bottom: 50px;
-}  
-
 /* main */
 
 
@@ -139,3 +131,4 @@ h2 {
 }
 
 /* end footer */
+
