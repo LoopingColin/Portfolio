@@ -2,6 +2,7 @@
 body {
   margin: 0;
   padding: 0;
+  background: linear-gradient(#173b6c, #040b14);
   
 } 
 
@@ -68,6 +69,11 @@ h2 {
 .about-text {
   font-size: 25px;
   font-family: 'Open Sans', sans-serif;
+  color: white;
+}
+
+.about ,.projects, .contact {
+  color: white;
 }
 
 
@@ -80,6 +86,7 @@ h2 {
 .bio-text {
   width: 700px;
   font-family: 'Open Sans', sans-serif;
+  color: white;
 }
 
 @media (max-width:768px) {
